@@ -1,0 +1,7 @@
+pandas
+numpy
+yfinance
+matplotlib
+scikit-learn
+fredapi
+urllib3<2.0
