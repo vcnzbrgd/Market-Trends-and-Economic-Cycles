@@ -2,7 +2,7 @@
 
 This project is my solution for an assessment for a Macro Quant position.
 
-### Questions:
+## Questions:
 
 A client is looking to understand how markets (S&P500, US 10y yields, EURUSD, USDBRL) tend to move in periods of strong economic growth vs periods of economic slowdowns. Using data from public sources such as Yahoo Finance, St. Louis FRED or Trading Economics (all accessible via Python API), please build a simple framework that will allow you to write a response to the client, explaining the process and result. Visual aids should be included, as much as possible.
 
