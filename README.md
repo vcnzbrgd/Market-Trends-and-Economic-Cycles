@@ -1,4 +1,4 @@
-# Macro Quant Assessment
+# Market Trends in Economic Cycles
 
 This project is my solution for an assessment for a Macro Quant position.
 
